@@ -3,3 +3,12 @@ a.exe
 
 # temp folders
 src/__pycache__
+
+# venv
+virtual/
+
+# python
+src/additional.py
+
+# env variables
+src/.env
